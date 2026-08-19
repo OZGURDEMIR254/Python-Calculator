@@ -1,0 +1,6 @@
+number1 = float(input("Enter the first number:"))
+number2 = float(input("Enter the second number:"))
+print("Total:", number1 + number2)
+print("Difference:", number1 - number2)
+print("product:", number1 * number2)
+print("section:", number1 / number2)
